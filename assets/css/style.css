@@ -1,0 +1,32 @@
+
+.body {
+    font-family: Helvetica, Arial, sans-serif; 
+    margin-bottom: 10px;
+}
+
+
+h2 {
+    color: #fff;
+}
+
+
+.jumbotron {
+    background:linear-gradient(rgba(40,40,40,0.7),rgba(40,40,40,0.7)), #000 url("appleblack.jpg") no-repeat center center;
+    background-size: cover;
+    color: #FFF;
+    font-family: Helvetica, Arial, sans-serif;
+  
+    padding: 5em inherit;
+    }
+
+
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        color: white;
+        text-align: center;
+     }
+
+
